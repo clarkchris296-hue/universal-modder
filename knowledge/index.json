@@ -1735,6 +1735,46 @@
   ]
  },
  {
+  "path": "games/dishonored-2/black-and-corrupt-bonecharm-traits-learnable-and-ng-persistent.md",
+  "kind": "game",
+  "title": "Black and corrupt bonecharm traits learnable and NG+ persistent",
+  "game": "Dishonored 2",
+  "games_also": [],
+  "game_version": "Steam, Dishonored2.exe linked 2025-02-06 (x64, 41 MB), app 403640",
+  "platform": "windows",
+  "engine": "idtech",
+  "route": "native-hook",
+  "tools": [
+   "python 3",
+   "pefile",
+   "capstone",
+   "numpy",
+   "MSVC Build Tools 2022",
+   "universal-modder um"
+  ],
+  "anti_cheat": "none",
+  "status": "working",
+  "agents": [
+   "Claude Code (Fable 5.1)"
+  ],
+  "humans": [],
+  "date": "2026-10-16",
+  "links": [
+   "https://github.com/chipolux/disrev",
+   "https://www.nexusmods.com/dishonored2/mods/30",
+   "https://www.nexusmods.com/dishonored2/mods/84"
+  ],
+  "tags": [
+   "void-engine",
+   "idtech5",
+   "bonecharm",
+   "crafting",
+   "new-game-plus",
+   "dinput8-proxy",
+   "resources-index"
+  ]
+ },
+ {
   "path": "games/dragon-s-dogma-2/blink-strike-teleports-behind-the-target-reframework-lua-ski.md",
   "kind": "game",
   "title": "Blink Strike teleports behind the target (REFramework Lua skill rework)",
