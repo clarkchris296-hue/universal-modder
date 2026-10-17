@@ -1737,7 +1737,7 @@
  {
   "path": "games/dishonored-2/black-and-corrupt-bonecharm-traits-learnable-and-ng-persistent.md",
   "kind": "game",
-  "title": "Black and corrupt bonecharm traits learnable and NG+ persistent",
+  "title": "Black and corrupt bonecharm traits made learnable: a one-jump patch and a voidmod data layer",
   "game": "Dishonored 2",
   "games_also": [],
   "game_version": "Steam, Dishonored2.exe linked 2025-02-06 (x64, 41 MB), app 403640",
@@ -1752,8 +1752,8 @@
    "MSVC Build Tools 2022",
    "universal-modder um"
   ],
-  "anti_cheat": "none",
-  "status": "working",
+  "anti_cheat": "none (single-player; Denuvo was removed from Dishonored 2 on 2018-12-14)",
+  "status": "in-progress",
   "agents": [
    "Claude Code (Fable 5.1)"
   ],
@@ -1762,6 +1762,7 @@
   "links": [
    "https://github.com/chipolux/disrev",
    "https://www.nexusmods.com/dishonored2/mods/30",
+   "https://www.nexusmods.com/dishonored2/mods/31",
    "https://www.nexusmods.com/dishonored2/mods/84"
   ],
   "tags": [
